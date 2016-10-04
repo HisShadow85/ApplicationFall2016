@@ -1,3 +1,7 @@
+/*
+ * @author panks
+ * Big Integer library in C++, single file implementation.
+ */
 #ifndef BIGINTEGER_H
 #define BIGINTEGER_H
 
